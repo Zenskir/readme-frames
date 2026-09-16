@@ -6,7 +6,7 @@
 const CONFIG = {
 
   // ── Identity ──────────────────────────────────────────────────
-  username: 'bulkinglb',
+  username: 'Zenskir',
   hostname: 'github',     // shows as  username@hostname ~ $
 
   // ── Terminal lines ────────────────────────────────────────────
@@ -32,8 +32,8 @@ const CONFIG = {
   //   role:          typed out beneath it
   //   nameFadeDuration:  seconds for the name fade-in
   //   roleTypingSpeed:   ms per character for the role line
-  introName: 'bulkinglb',
-  introRole: 'dedicated developer — open-source && challenging problems',
+  introName: 'Zenskir',
+  introRole: 'CS Student -> Cybersecurity Focused - Networking, Pentesting, CTFs',
   nameFadeDuration: 0.9,   // seconds
   roleTypingSpeed:  60,    // ms per character
 
